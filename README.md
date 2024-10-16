@@ -1,6 +1,8 @@
 # probitmfx
 Marginal effects for a probit regression Use probitmfx With (In) R Software
 
+https://www.youtube.com/watch?v=yAWKMJHvsS4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
